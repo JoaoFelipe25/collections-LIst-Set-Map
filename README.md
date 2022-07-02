@@ -1,9 +1,9 @@
 # Aula 79 - JAVA
 
-## Collections
+## Collections 
 
-[Colletions List](collections-LIst-Set-Map/src/)
+### List
 
-[Colletions Map](collections-LIst-Set-Map/src/maps)
+### Map
 
-[Colletions Set](collections-LIst-Set-Map/src/sets)
+### Set
