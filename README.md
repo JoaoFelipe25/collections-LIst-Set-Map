@@ -2,8 +2,8 @@
 
 ## Collections
 
-### collections-LIst-Set-Map/src/lists/
+[Colletions List](collections-LIst-Set-Map/src/lists/)
 
-### collections-LIst-Set-Map/src/maps/
+[Colletions Map](collections-LIst-Set-Map/src/maps/)
 
-### collections-LIst-Set-Map/src/sets/
+[Colletions Set](collections-LIst-Set-Map/src/sets/)
