@@ -4,7 +4,7 @@
 
 ### List
 
-[](collections-LIst-Set-Map/src/lists/ArrayList1.java /)
+[Array](collections-LIst-Set-Map/src/lists/ArrayList1.java/)
 
 ### Map
 
