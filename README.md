@@ -2,7 +2,7 @@
 
 ## Collections
 
-[Colletions List](collections-LIst-Set-Map/src/lists/ArrayList1.java)
+[Colletions List](collections-LIst-Set-Map/src/)
 
 [Colletions Map](collections-LIst-Set-Map/src/maps)
 
